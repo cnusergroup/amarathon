@@ -1,0 +1,41 @@
+// Breakpoints
+$pad--max-width: 1199px;
+$mobile--max-width: 767px;
+
+// Colors
+$primary-gradient: linear-gradient(98deg, #2D62FF -24.99%, #BE52FF 107.17%);
+$text-primary: #232F3F;
+$text-secondary: #545E6B;
+$text-tertiary: #556E8F;
+$accent-purple: #555EFF;
+$background-white: #FFFFFF;
+$background-gray: #FAFAFA;
+$border-color: #EAECF4;
+$scrollbar-thumb: #D0DFF0;
+
+// Typography
+$font-size-body: 14px;
+$font-size-title: 30px;
+$font-size-subtitle: 20px;
+$font-size-large: 24px;
+$line-height-body: 22px;
+$line-height-title: 32px;
+
+// Spacing
+$spacing-unit: 10px;
+$container-width-desktop: 1200px;
+$container-width-tablet: 946px;
+$container-width-mobile: 690px;
+$container-width-mobile-small: 672px;
+
+// Border Radius
+$radius-card: 12px;
+$radius-button: 55px;
+$radius-badge: 12px;
+$radius-scrollbar: 2px;
+
+// Transitions
+$transition-default: all 0.25s ease;
+
+// Shadows
+$shadow-card: 0 2px 8px rgba(0, 0, 0, 0.1);

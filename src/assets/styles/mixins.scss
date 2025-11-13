@@ -1,0 +1,32 @@
+// Responsive VW calculation mixins
+$pc-width: 1920;
+$pad-width: 1024;
+$mobile-width: 750;
+
+// Convert px to vw for PC (1920px base)
+@function px2vw($px) {
+  @return $px / $pc-width * 100vw;
+}
+
+// Convert px to vw for Pad (1024px base)
+@function pad-px2vw($px) {
+  @return $px / $pad-width * 100vw;
+}
+
+// Convert px to vw for Mobile (750px base)
+@function mobile-px2vw($px) {
+  @return $px / $mobile-width * 100vw;
+}
+
+// Breakpoint mixins
+@mixin tablet {
+  @media (max-width: 1199px) {
+    @content;
+  }
+}
+
+@mixin mobile {
+  @media (max-width: 767px) {
+    @content;
+  }
+}
