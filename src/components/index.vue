@@ -540,28 +540,7 @@ export default {
               },
             ]
           },
-          {
-            poster: require('@/assets/images/amarothon12/dannychan.png'),
-            mobilePoster: require('@/assets/images/amarothon12/dannychan_mb.png'),
-            name: 'Danny Chan',
-            position: '',
-            positionEn: 'Amazon Community Builder （Financial Services Industry, Hong Kong）',
-            desc: '亚马逊云科技 Community Builder、金融科技、深度学习、出海企业解决方案专家。曾出席全球各地分享技术知识，包括美国，韩国，菲律宾，印尼等超过二十个城市。在社区中推动了 ”Think Big, Start Small, Learn Fast” 的理念，现聚焦以科技提升社会价值。曾获得多个创投比赛奖项，包括 Glitch Hack Korea - BNB chain rank3 - Data Analytics on zkBNB 等。',
-            descEn: 'Amazon Community Builder, FinTech and deep learning expert, and solutions specialist for overseas enterprises. Has shared technical knowledge globally, including in over 20 cities such as the United States, South Korea, the Philippines, and Indonesia. Actively promotes the "Think Big, Start Small, Learn Fast" mindset within the community and is now focused on enhancing social value through technology. Recipient of multiple venture competition awards, including Glitch Hack Korea - BNB Chain Rank 3 - Data Analytics on zkBNB, among others.',
-            job: '出海宣发、Pre-event主持人',
-            jobEn: 'Responsible for global media publications and media PR promotion, Pre-event Host',
-            share: [
-              {
-                src: require('@/assets/images/amarothon12/in.png'),
-                url: 'https://www.linkedin.com/in/danny-code/'
-              },
-              {
-                src: require('@/assets/images/amarothon12/devto.png'),
-                url: 'https://dev.to/danc',
-                cusClass: 'size_22_17'
-              },
-            ]
-          },
+          
           {
             poster: require('@/assets/images/amarothon12/kennychan.png'),
             mobilePoster: require('@/assets/images/amarothon12/kennychan_mb.png'),
