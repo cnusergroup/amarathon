@@ -671,7 +671,7 @@ export default {
           },
           {
             poster: require('@/assets/images/amarothon12/betty.png'),
-            mobilePoster: require('@/assets/images/amarothon12/betty_mb.png'),
+            mobilePoster: require('@/assets/images/amarathon12/mobile/betty.png'),
             name: '郑予彬 Betty',
             position: 'Senior Developer Advocate 资深开发者布道师',
             positionEn: '',
@@ -844,7 +844,7 @@ export default {
         adviser: [
           {
             poster: require('@/assets/images/amarothon12/shunyoshie.png'),
-            mobilePoster: require('@/assets/images/amarothon12/shunyoshie_mb.png'),
+            mobilePoster: require('@/assets/images/amarathon12/mobile/shunyoshie.png'),
             name: 'Shun Yoshie',
             desc: 'Amazon Security Hero (ex-Amazon Community Hero). Originator of JAWS PANKRATION and executive committee chair of JAWS PANKRATION 2021 and 2024. In Japan, in addition to managing Security-JAWS, he has also managed several Amazon community events.',
             descEn: 'Currently working as an IT security consultant. My favorite Amazon service is Amazon Security Hub & Amazon WAF. My favorite technology is CNAPP.',
