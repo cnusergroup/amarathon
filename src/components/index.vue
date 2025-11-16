@@ -441,7 +441,7 @@ export default {
         committee: [
           {
             poster: require('@/assets/images/amarothon12/lishaoyi.png'),
-            mobilePoster: require('@/assets/images/amarothon12/lishaoyi_mobile.png'),
+            mobilePoster: require('@/assets/images/amarathon12/mobile/lishaoyi.png'),
             name: '李少奕 Shaoyi Li',
             position: 'CN-UG Committee Member, Co-founder of Amarathon Geek Talk, Amazon Community Hero, Amazon GCR Advocate Blogger',
             positionEn: '',
@@ -470,7 +470,7 @@ export default {
           },
           {
             poster: require('@/assets/images/amarothon12/xuyebao.png'),
-            mobilePoster: require('@/assets/images/amarothon12/xuyebao_mobile.png'),
+            mobilePoster: require('@/assets/images/amarathon12/mobile/xuyebao.png'),
             name: '许业宝 Yebao Xu',
             position: 'UGL Amazon GCR Advocate Blogger',
             positionEn: 'UGL Shanghai Member, Amazon GCR Advocate Blogger',
@@ -491,7 +491,7 @@ export default {
           },
           {
             poster: require('@/assets/images/amarothon12/zhaoanna.png'),
-            mobilePoster: require('@/assets/images/amarothon12/zhaoanna_mobile.png'),
+            mobilePoster: require('@/assets/images/amarathon12/mobile/zhaoanna.png'),
             name: '赵安娜 Anna Zhao',
             position: 'UGL 北京成员',
             positionEn: 'UGL Beijing Member',
@@ -508,7 +508,7 @@ export default {
           },
           {
             poster: require('@/assets/images/amarothon12/zhangrundi.png'),
-            mobilePoster: require('@/assets/images/amarothon12/zhangrundi_mobile.png'),
+            mobilePoster: require('@/assets/images/amarathon12/mobile/zhangrundi.png'),
             name: '张润迪 Rundi Zhang',
             position: 'UGL 广州成员',
             positionEn: 'UGL Guangzhou Member',
@@ -525,7 +525,7 @@ export default {
           },
           {
             poster: require('@/assets/images/amarothon12/maping.png'),
-            mobilePoster: require('@/assets/images/amarothon12/maping_mb.png'),
+            mobilePoster: require('@/assets/images/amarathon12/mobile/maping.png'),
             name: '马萍 Ping Ma',
             position: 'UGL 上海成员',
             positionEn: 'UGL Shanghai Member',
@@ -543,7 +543,7 @@ export default {
           
           {
             poster: require('@/assets/images/amarothon12/kennychan.png'),
-            mobilePoster: require('@/assets/images/amarothon12/kennychan_mb.png'),
+            mobilePoster: require('@/assets/images/amarathon12/mobile/kennychan.png'),
             name: 'Kenny Chan',
             position: '',
             positionEn: 'Amazon Community Builder （Machine Learning, Hong Kong）',
@@ -570,7 +570,7 @@ export default {
           },
           {
             poster: require('@/assets/images/amarothon12/lixiaofei.png'),
-            mobilePoster: require('@/assets/images/amarothon12/lixiaofei_mb.png'),
+            mobilePoster: require('@/assets/images/amarathon12/mobile/lixiaofei.png'),
             name: '李小飞 XiaoFei Li',
             position: 'UG Ambassador成员，Amazon GCR Advocate Blogger',
             positionEn: 'UG Ambassador Member, Amazon GCR Advocate Blogger',
@@ -686,7 +686,7 @@ export default {
           },
           {
             poster: require('@/assets/images/amarothon12/panjuan.png'),
-            mobilePoster: require('@/assets/images/amarothon12/panjuan_mb.png'),
+            mobilePoster: require('@/assets/images/amarathon12/mobile/panjuan.png'),
             name: '潘娟 Juan Pan',
             position: 'Amazon Data hero',
             positionEn: '',
@@ -706,7 +706,7 @@ export default {
           },
           {
             poster: require('@/assets/images/amarothon12/lishaoyi.png'),
-            mobilePoster: require('@/assets/images/amarothon12/lishaoyi_mobile.png'),
+            mobilePoster: require('@/assets/images/amarathon12/mobile/lishaoyi.png'),
             name: '李少奕 Shaoyi Li',
             position: 'Amarathon Committee 技术负责人',
             positionEn: 'Technical Solutions and Contents Lead for the Amarathon Committee',
@@ -733,7 +733,7 @@ export default {
           },
           {
             poster: require('@/assets/images/amarothon12/xuyebao.png'),
-            mobilePoster: require('@/assets/images/amarothon12/xuyebao_mobile.png'),
+            mobilePoster: require('@/assets/images/amarathon12/mobile/xuyebao.png'),
             name: '许业宝 Yebao Xu',
             position: 'Amarathon Committee 讲师招募负责人',
             positionEn: 'Amarathon Committee Responsible for speaker recruitment',
@@ -752,7 +752,7 @@ export default {
           },
           {
             poster: require('@/assets/images/amarothon12/huanghaowen.png'),
-            mobilePoster: require('@/assets/images/amarothon12/huanghaowen_mb.png'),
+            mobilePoster: require('@/assets/images/amarathon12/mobile/huanghaowen.png'),
             name: '黄浩文 Haowen Huang',
             position: 'Senior Developer Advocate 资深开发者布道师',
             positionEn: 'Amazon Senior Developer Advocate Senior Developer Evangelist',
@@ -772,7 +772,7 @@ export default {
           },
           {
             poster: require('@/assets/images/amarothon12/jackychan.png'),
-            mobilePoster: require('@/assets/images/amarothon12/jackychan_mb.png'),
+            mobilePoster: require('@/assets/images/amarathon12/mobile/jackychan.png'),
             name: '陈豪杰 Jacky Chan',
             position: 'Amazon Community Builder - ML & GenAI 香港成员',
             positionEn: 'Amazon Community Builder - ML & GenAI, Hong Kong',
@@ -875,7 +875,7 @@ export default {
           },
           {
             poster: require('@/assets/images/amarothon12/liuyanglin.png'),
-            mobilePoster: require('@/assets/images/amarothon12/liuyanglin_mb.png'),
+            mobilePoster: require('@/assets/images/amarathon12/mobile/liuyanglin.png'),
             name: '刘洋琳',
             desc: 'Amazon Community Manager（Builder Marketing Manager）亚马逊中国User Group开发者社区负责人，也是亚麻拉松（Amarathon）发起人和创始人之一。',
             descEn: 'Amazon Builder Marketing Manager，The community manager of the Amazon China User Group, and one of the initiators and founders of the Amarathon',
@@ -888,7 +888,7 @@ export default {
           },
           {
             poster: require('@/assets/images/amarothon12/tracywang.png'),
-            mobilePoster: require('@/assets/images/amarothon12/tracywang_mb.png'),
+            mobilePoster: require('@/assets/images/amarathon12/mobile/tracywang.png'),
             name: '王萃 Tracy Wang',
             desc: '亚马逊云科技学术倡导团队学生社区项目经理，负责全球学生社区- Amazon Cloud Clubs 项目设计和运营。',
             descEn: 'Amazon Academic Advocacy Team Student Community Program Manager, responsible for global student community-Amazon Cloud Clubs program design and operation.',
